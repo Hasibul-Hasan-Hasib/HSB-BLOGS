@@ -1,9 +1,14 @@
 import React from 'react';
+import HomeBlogs from '../../components/HomeBlogs/HomeBlogs';
+import HomeTestimonial from '../../components/HomeTestimonial/HomeTestimonial';
+import TopBanner from '../../components/Top Banner/TopBanner';
 
 const Home = () => {
     return (
         <div>
-            <h2>This is home</h2>
+            <TopBanner/>
+            <HomeBlogs/>
+            <HomeTestimonial/>
         </div>
     );
 };
