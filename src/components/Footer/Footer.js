@@ -1,15 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../Assets/Images/HSB Blogs-logos.png';
-
+import curve from '../../Assets/Images/wave-haikei (2).svg'
 
 const Footer = () => {
     return (
         <div>
-            <footer class="text-gray-600 body-font">
-                <div class="container px-5 py-10 mx-auto flex items-center sm:flex-row flex-col">
+            <footer class="z-10 text-gray-600 relative py-auto body-font">
+                <div class="container px-5 pt-10 mx-auto flex items-center sm:flex-row flex-col">
                     <Link to="" class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-                        <img className='w-32 md:w-48 lg:w-56' src={logo} alt="" />
+                        <img class='w-32 md:w-48 lg:w-56' src={logo} alt="" />
                     </Link>
                     <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2020 Tailblocks —
                         <a href="https://google.com" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">@knyttneve</a>
@@ -40,6 +40,7 @@ const Footer = () => {
                     </span>
                 </div>
             </footer>
+            <img src={curve} alt="" />
         </div>
     );
 };

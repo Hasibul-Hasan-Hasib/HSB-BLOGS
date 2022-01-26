@@ -9,6 +9,7 @@ const Blog = () => {
                 <span class="mt-1 text-gray-500 text-sm">12 Jun 2019</span>
             </div>
             <div class="md:flex-grow">
+                <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded mx-auto" alt="hero" src="https://dummyimage.com/720x600" />
                 <h2 class="text-2xl font-medium text-gray-900 title-font mb-2">Bitters hashtag waistcoat fashion axe chia unicorn</h2>
                 <p class="leading-relaxed">Glossier echo park pug, church-key sartorial biodiesel vexillologist pop-up snackwave ramps cornhole. Marfa 3 wolf moon party messenger bag selfies, poke vaporware kombucha lumbersexual pork belly polaroid hoodie portland craft beer.</p>
                 <Link to="" class="text-indigo-500 inline-flex items-center mt-4">Learn More
