@@ -15,6 +15,7 @@ const Appbar = () => {
                     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
                         <Link to="/home" class="mr-5 px-1 font-bold text-indigo-600  hover:duration-500	hover:scale-150">Home</Link>
                         <Link to="/blogs" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">Blogs</Link>
+                        <Link to="/projects" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">Projects</Link>
                         <Link to="/contact" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">Contact</Link>
                         <Link to="/about" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">About</Link>
                     </nav>

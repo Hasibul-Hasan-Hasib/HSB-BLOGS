@@ -5,10 +5,11 @@ const HomeBlogs = () => {
     return (
         <div>
             <section class="text-gray-600 body-font overflow-hidden">
-                <div class="container px-5 py-24 mx-auto">
+                <h1 class="sm:text-3xl text-2xl font-medium title-font mt-8 text-gray-700">Latest Blogs</h1>
+                <div class="container px-5 pb-24 pt-20 mx-auto">
                     <div class="flex flex-wrap -m-12">
-                        <HomeBlog/>
-                        <HomeBlog/>
+                        <HomeBlog />
+                        <HomeBlog />
                     </div>
                 </div>
             </section>

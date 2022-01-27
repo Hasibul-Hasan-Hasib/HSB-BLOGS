@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../../Assets/Images/HSB Blogs-logos.png';
+import logo from '../../Assets/Images/logo.svg';
 import curve from '../../Assets/Images/wave-haikei (2).svg'
 
 const Footer = () => {

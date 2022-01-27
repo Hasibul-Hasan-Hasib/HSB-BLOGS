@@ -1,6 +1,6 @@
 import React from 'react';
 import HomeBlogs from '../../components/HomeBlogs/HomeBlogs';
-import HomeTestimonial from '../../components/HomeTestimonial/HomeTestimonial';
+import HomeProjects from '../../components/HomeProjects/HomeProjects';
 import TopBanner from '../../components/Top Banner/TopBanner';
 
 const Home = () => {
@@ -8,7 +8,7 @@ const Home = () => {
         <div>
             <TopBanner/>
             <HomeBlogs/>
-            <HomeTestimonial/>
+            <HomeProjects/>
         </div>
     );
 };
