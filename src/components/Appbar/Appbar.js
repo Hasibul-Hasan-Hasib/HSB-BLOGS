@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../../Assets/Images/HSB Blogs-logos_white.png';
+import logo from '../../Assets/Images/HSB Blogs-logos.png';
 import curve from '../../Assets/Images/wave-haikei.svg'
 
 const Appbar = () => {
@@ -13,10 +13,10 @@ const Appbar = () => {
                         <img className='w-32 md:w-48 lg:w-56' src={logo} alt="" />
                     </Link>
                     <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
-                        <Link to="/home" class="mr-5 text-white hover:text-gray-900">Home</Link>
-                        <Link to="/blogs" class="mr-5 text-white hover:text-gray-900">Blogs</Link>
-                        <Link to="/contact" class="mr-5 text-white hover:text-gray-900">Contact</Link>
-                        <Link to="/about" class="mr-5 text-white hover:text-gray-900">About</Link>
+                        <Link to="/home" class="mr-5 px-1 font-bold text-indigo-600  hover:duration-500	hover:scale-150">Home</Link>
+                        <Link to="/blogs" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">Blogs</Link>
+                        <Link to="/contact" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">Contact</Link>
+                        <Link to="/about" class="mr-5 px-1 font-bold text-indigo-600 hover:duration-500 hover:scale-150">About</Link>
                     </nav>
                 </div>
             </header>
