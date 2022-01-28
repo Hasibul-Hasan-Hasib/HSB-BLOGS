@@ -1,10 +1,16 @@
 import React from 'react';
+import ProjectL from '../../components/Project/ProjectL';
+import ProjectR from '../../components/Project/ProjectR';
+
 
 const Projects = () => {
     return (
-        <div>
-            <h2>this is projects page</h2>
-        </div>
+        <section class="text-gray-600 body-font">
+            <ProjectL/>
+            <ProjectR/>
+            <ProjectL/>
+            <ProjectR/>
+        </section>
     );
 };
 
