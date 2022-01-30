@@ -1,0 +1,18 @@
+[
+    {
+        "blogId":"1",
+        "blogImg":"1.png",
+        "blogHeading":"this is first heading",
+        "blogContent":"lorem3434342gdjkfgjkdgfshkfdgjjdgfhgsjfg",
+        "category":"news",
+        "date":"31 jan 2022"
+    },
+    {
+        "blogId":"2",
+        "blogImg":"2.png",
+        "blogHeading":"this is second heading",
+        "blogContent":"lorem3434342gdjkfgjkdgsdasdasdasdasdasddgfhgsjfg",
+        "category":"project",
+        "date":"01 feb 2022"
+    }
+]
