@@ -5,7 +5,7 @@ import ProjectR from '../../components/Project/ProjectR';
 
 const Projects = () => {
     return (
-        <section class="text-gray-600 body-font">
+        <section class="text-gray-600 body-font divide-y-2 divide-gray-100">
             <ProjectL/>
             <ProjectR/>
             <ProjectL/>
