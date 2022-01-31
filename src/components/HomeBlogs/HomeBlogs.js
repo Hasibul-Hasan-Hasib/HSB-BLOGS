@@ -1,7 +1,13 @@
 import React from 'react';
 import HomeBlog from './HomeBlog';
+import useBlogsData from '../../FakeData/useBlogsData'
 
 const HomeBlogs = () => {
+
+    const {blogs} = useBlogsData();
+    const homeBlogs = blogs.slice(0,2)
+    console.log(homeBlogs);
+
     return (
         <div>
             <section class="text-gray-600 body-font overflow-hidden">

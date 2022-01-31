@@ -14,5 +14,13 @@
         "blogContent":"lorem3434342gdjkfgjkdgsdasdasdasdasdasddgfhgsjfg",
         "category":"project",
         "date":"01 feb 2022"
+    },
+    {
+        "blogId":"3",
+        "blogImg":"3.png",
+        "blogHeading":"this is third heading",
+        "blogContent":"lorem3434342gdjkfgjkdgsdasdasdasdasdasddgfhgsjfg",
+        "category":"project",
+        "date":"01 feb 2022"
     }
 ]
