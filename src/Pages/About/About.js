@@ -12,10 +12,10 @@ const About = () => {
                         <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">Small Talk About Me</h1>
                         <p class="mb-8 leading-relaxed">I am a junior MERN stack web developer. I made this blog site to showcase my progress to become a senior web developer and UX designer. In this blog site i will post updates about my projects, researches, work progress and experiences, and other things that I would like to share with everyone. I hope you like my blog site. thank you for visiting.</p>
                         <div class="flex justify-center">
-                            <Link to="/blogs" class="mx-2 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Blogs</Link> 
+                            <Link to="/blogs" class="mx-2 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Blogs</Link>
+                            <Link to="/projects" class="mx-2 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Projects</Link>
+                            <a href="https://github.com/Hasibul-Hasan-Hasib" target="_black" class="mx-2 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg" >Github</a>
                             <Link to="/contact" class="mx-2 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Contact</Link>
-                            <Link to="/projects" class="mx-2 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Projects</Link> 
-                            <a href="https://github.com/Hasibul-Hasan-Hasib" target="_black" class="mx-2 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Github</a>
                         </div>
                     </div>
                 </div>
