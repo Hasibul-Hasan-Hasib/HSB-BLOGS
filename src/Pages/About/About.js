@@ -15,7 +15,6 @@ const About = () => {
                             <Link to="/blogs" class="mx-2 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Blogs</Link>
                             <Link to="/projects" class="mx-2 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Projects</Link>
                             <a href="https://github.com/Hasibul-Hasan-Hasib" target="_black" class="mx-2 inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg" >Github</a>
-                            <Link to="/contact" class="mx-2 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Contact</Link>
                         </div>
                     </div>
                 </div>
