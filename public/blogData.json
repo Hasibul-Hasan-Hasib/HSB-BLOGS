@@ -1,7 +1,7 @@
 [
     {
         "blogId": "1",
-        "blogImg": "blogImage1",
+        "blogImg": "blogImage1.png",
         "blogHeading": "React component and hooks library Mantine",
         "blogContent": "Yesterday I was looking for a full blown react component library. I was scrolling on youtube and saw the latest video of fireship. There he recommended This React library Mantine. I checked out Mantine's website immediately. I was not sure about this library if it is any better than Material Ui (which i usually use). But this library had everything i ever wanted from a library. I has many components like modal, text area, date picker etc. But the most impressive thing is that it has many kinds of React hooks built into it. It has a nice ui and also its syntax and structure is easier to understand. Here is the link of this site - https://mantine.dev . I hope you like this library as much as I did. Good Day to you.",
         "category": "News",
@@ -11,14 +11,6 @@
         "blogId": "2",
         "blogImg": "2.png",
         "blogHeading": "This is second heading",
-        "blogContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "category": "Project",
-        "date": "01 feb 2022"
-    },
-    {
-        "blogId": "3",
-        "blogImg": "3.png",
-        "blogHeading": "this is third heading",
         "blogContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "category": "Project",
         "date": "01 feb 2022"
