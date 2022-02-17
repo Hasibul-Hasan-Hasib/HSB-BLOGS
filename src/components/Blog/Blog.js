@@ -15,7 +15,7 @@ const Blog = (props) => {
                 {(() => {
                     if (blogImg) {
                         return (
-                            <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded mx-auto" alt="hero" src={`https://raw.githubusercontent.com/Hasibul-Hasan-Hasib/HSB-BLOGS/main/src/Assets/Images/${blogImg}`} />
+                            <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded mx-auto" alt="hero" src={`https://raw.githubusercontent.com/Hasibul-Hasan-Hasib/HSB-BLOGS/main/src/Assets/Images/Blog-Image${blogImg}`} />
                         )
                     }
                 })()}
